@@ -1,0 +1,22 @@
+<html>
+    <head></head>
+    <div class="title">
+        <h2>Welcome to OpenMindsClub</h2>
+    </div>
+    <div class="text1">
+        <h3>Who is OpenMindsClub ?</h3>
+        <p>
+            Open Minds Club is a student organization, that aims to promote the spirit of collaboration between students, sharing knowledge, the Free Open Source Philosophy inside and outside USTHB through the organization of events like:
+        </p>
+        <ol>
+            <li>Arabe Games</li>
+            <li>AI event with Dr Baghdadi</li>
+            <li>Install Party</li>
+            <li>Bootcamp months</li>
+        </ol>
+    </div>
+    <div class="image">
+        <img src="">
+        <img src="">
+    </div>
+</html>
